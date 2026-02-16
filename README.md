@@ -1,0 +1,1 @@
+The goal of this project is to simulate heat propagation, described by the Fourier PDE, in a room with an initial condition of 20°C. Then, I highlight different numerical methods guaranteeing both accurate results and fast convergence. The second part of this project is to implement the conjugate gradient method, as well as two-grid and multigrid methods (V-cycle and W-cycle).
